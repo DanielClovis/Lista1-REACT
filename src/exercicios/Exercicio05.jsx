@@ -10,7 +10,7 @@ function Usuario({ nome, idade }) {
 
 function Exercicio05() {
   return (
-    <Usuario nome="João" idade={20} />
+    <Usuario nome="Daniel" idade={20} />
   )
 }
 
